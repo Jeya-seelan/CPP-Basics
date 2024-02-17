@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703311282 source:d:\c++ files\count lines and words\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
